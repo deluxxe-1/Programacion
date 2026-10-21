@@ -1,0 +1,1 @@
+{'Chelo Richart Zanón': {'direccion': 'Calle xxxx, 15', 'email': 'crichart@dominio.com', 'telefono': '898432345'}, 'Nikita Kolchak': {'direccion': 'Avenida del Puerto, 42', 'email': 'nikitakolchak2006@gmail.com', 'telefono': '600123456'}, 'Ana García López': {'direccion': 'Calle de la Paz, 8', 'email': 'ana.garcia@dominio.com', 'telefono': '911223344'}}
